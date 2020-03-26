@@ -8,4 +8,3 @@
 这个项目的博客链接 [Android 图片文字识别（基于百度OCR）—— 简书](https://www.jianshu.com/p/0ed2c5656035)
 
 上传了视频可以看运行效果
-# Font-recognition
