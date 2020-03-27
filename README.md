@@ -1,4 +1,4 @@
-# Font-Recognition
+# Character-Recognition
 这是一个基于百度OCRApi的图片文字识别demo</br></br>
 ![图片文字识别1](http://upload-images.jianshu.io/upload_images/12266363-b8df389ba4db8617.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/240)
 ![图片文字识别2](http://upload-images.jianshu.io/upload_images/12266363-7e24fde535566e9b.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/240)</br>
